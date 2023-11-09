@@ -3,4 +3,5 @@ outputs/
 *.log
 .DS_Store
 
+test-destination
 coverage/
